@@ -5,10 +5,10 @@
     <title>Add Stock</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>jQuery UI Autocomplete - Default functionality</title>
-  <link rel="stylesheet" href="css/jquery-ui.css">
-  <link rel="stylesheet" href="css/style.css">
-  <script src="js/jquery-1.js"></script>
-  <script src="js/jquery-ui.js"></script>
+  <link rel="stylesheet" href="jquery-ui.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="jquery-1.js"></script>
+  <script src="jquery-ui.js"></script>
     <script>
 function search(val,table){
     var xmlhttp;

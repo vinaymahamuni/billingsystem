@@ -20,7 +20,7 @@
 					<a href="../stock/" ><input type="button" value="Add Stock"></a>
 				</td>	
 				<td>
-					<a href="#"><input type="button" value="View Stock"></a>
+					<a href="../bill/"><input type="button" value="View Stock"></a>
 				</td>
 			</tr>	
 			<tr>
