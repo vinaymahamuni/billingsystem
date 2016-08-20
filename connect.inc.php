@@ -3,7 +3,7 @@
 $mysql_error = 'Could not connect to the database.';
 $mysql_host="localhost";
 $mysql_user="root";
-$mysql_password="root";
+$mysql_password="";
 
 $mysql_db="sandip";
 
